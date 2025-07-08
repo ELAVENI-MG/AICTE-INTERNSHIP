@@ -1,6 +1,6 @@
 # AICTE-INTERNSHIP
 
-##  GHG Emission Prediction (Week 3)
+##  GHG Emission Prediction
 
 This project focuses on predicting Greenhouse Gas (GHG) emissions using machine learning techniques. The dataset includes various factors like emission sources, units, and reliability scores. The key steps include:
 
